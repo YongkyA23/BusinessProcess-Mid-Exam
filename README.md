@@ -26,4 +26,5 @@ Notes: *A reorder point (ROP) is a specific level at which your stock needs to b
 
 Mini Case 3: Gudang Material (20%)
 Gudang Material sells building material and plumbing equipment to individual as well as corporate customers. Individual customers are typically walk-in customers who pay for their purchases before leaving the store. Corporate customers often have accounts with Builders Warehouse and these customers prefer to call or email through their orders, have them made up, and then send a driver to collect the items. These types of corporate purchases are charged to the accounts of the corporate customers. At the end of the month, the corporate customers can either pay off the entire balance on the account, or they can pay off the balance over a period of three months. The arrangement with corporate customers is that all payments should be made via Electronic Fund Transfer.
+
 7. Draw an REA Diagram of the Gudang Material ‘s revenue cycle, complete with cardinalities (LO1, LO2) (20 points).
