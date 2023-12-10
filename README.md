@@ -16,8 +16,11 @@ The inventory manager can log on to the enterprise system any time to look at op
 Throughout the day, buyers in the purchasing department receive from the enterprise system online approved requisitions with a list of appropriate suppliers. They select a supplier and enter Purchase Order (PO) data. After the PO is saved, the purchase requisition data and inventory master data are updated. The completed, prenumbered PO is then printed in the purchasing department and mailed to the supplier.
 The receiving department inspects and counts the goods when they are received, compares the count to the packing slip, pulls up the PO in the enterprise system, and enters the quantity received. The PO and inventory master data are updated after the receiving record is saved. The general ledger master data are also updated to reflect the increase in the inventory balance
 Notes: *A reorder point (ROP) is a specific level at which your stock needs to be replenished. In other words, it tells you when to place an order, so the company will not run out of stock.
+
 4. Draw a system flowchart (LO1, LO2) (20 points)
+
 5. Identify the source document(s) and the functions (LO1, LO2, LO3) (10 points)
+
 6. Identify any threats and control procedure that may happen. (LO2, LO3) (10 points)
 
 
